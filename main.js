@@ -1,5 +1,5 @@
 //Insert key for Alpha Vantage
-const API_KEY = 'AUZX1M739I8704IG';
+const API_KEY = '[Enter API Key Here]';
 
 //URLs for Alpha Vantage API
 const searchStockAPI = 'https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=';
